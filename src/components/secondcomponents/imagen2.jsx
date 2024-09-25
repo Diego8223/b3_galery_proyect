@@ -10,4 +10,3 @@ export const imagen2 = ({this.props.}) => {
 imagen2.proptotype = {
     className= PropTypes.string
 }
-
